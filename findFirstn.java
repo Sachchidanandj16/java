@@ -1,3 +1,4 @@
+//this progra is to find the first number of any int digit
 import java.util.Scanner;
 
 public class findFirstn {
